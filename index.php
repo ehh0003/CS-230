@@ -1,5 +1,9 @@
 <main>
-<!-- lknclkasdnlcaklsdc -->
+   <!-- Erica Hall
+    Lab 2 About Us page
+    2/4/2021
+    CS 230 -->
+    
     <link rel="stylesheet" href="css/about.css">
 
     <div class="about">
