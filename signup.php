@@ -54,7 +54,7 @@ require "includes/header.php"
                         </div>
                         -->
 
-                        <button class="btn btn-lg btn-outline-danger btn-block" name="signup-submit" type="submit">Sign in</button>
+                        <button class="btn btn-lg btn-outline-danger btn-block" name="signup-submit" type="submit">Register</button>
                         <p class="mt-5 mb-3 text-muted">&copy; 2020 4eva</p>
                     </form>
 
