@@ -1,3 +1,8 @@
+<!--Erica Hall
+2/16/2021
+CS 230 Lab 4 -->
+
+
 <?php
 
 if(isset($_POST['login-submit'])){

@@ -1,3 +1,7 @@
+<!--Erica Hall
+2/16/2021
+CS 230 Lab 4 -->
+
 <?php
 require 'includes/header.php';
 ?>
