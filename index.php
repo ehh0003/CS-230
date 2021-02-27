@@ -1,3 +1,4 @@
+
 <main>
    <!-- Erica Hall
     Lab 2 About Us page
