@@ -1,0 +1,47 @@
+img{
+
+    max-width:180px;
+    margin-top:10px;
+    height:220px;
+}
+
+h1{
+    text-align:center;
+}
+
+h3{
+    color: purple;
+}
+
+p{
+    color:grey;
+}
+
+.gallery-container {
+    text-align: center;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card{
+    border-radius: 10px;
+    margin:10px;
+    width: 20%;
+    max-width: 280px;
+    height: auto;
+    padding: 5px;
+}
+
+.gallery-container a{
+    background-color: rgb(228, 148, 201);
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.gallery-container a:hover{
+    opacity:70%;
+    text-decoration-color:goldenrod ;
+}
