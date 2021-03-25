@@ -19,7 +19,27 @@ Edited to change theme to crochet business on 3-12-21
             crocheting business! </p>
         <p class="c2"> Crochet and knitting classes are still in session but privately at home or as a party on Zoom, if
             you have an inquiry please contact us and we'll get back shortly </p>
-    </div>
+    
+    <section class="row revealed">
+                        <div class="block" class="text-align">
+
+                            <h2>Login/Signup to enjoy the website!</h2>
+
+                            <div class="d-grid gap-2">
+
+                                <a class="nav-link" href="signup.php">
+
+                                    <button class="btn btn-primary" class="nav-link" type="button">Sign Up</button>
+                                </a>
+                            
+
+                                <a class="nav-link" href="login.php">
+                                    <button class="btn btn-primary" class="nav-link" type="button"
+                                        href="login.php">Login</button>
+                                </a>
+                            </div>
+
+</div>
 
     <div class="row">
         <div class="column">
